@@ -11,63 +11,65 @@
 
 > نقشه راه تبدیل شدن به یک برنامه نویس [ASP.NET Core](https://docs.microsoft.com/aspnet/core) در سال 2023:
 
-در پایین این متن میتوانید یک چارت که نمایشگر راه هایی که میتوانید انتخاب کند و کتابخانه های که میتوانید برای تبدیل شدن به یک برنامه نویسی ASP.NET core بیاموزید. من این چارت رابه عنوان یک راهنما برای هر کسی که از من راجب اینکه دیگر باید چه چیزی را به عنوان یک برنامه نویس ASP.NET core بیاموزم ساختم.
+در پایین این متن میتوانید یک چارت که نمایشگر راه هایی که میتوانید انتخاب کند و کتابخانه های که میتوانید برای تبدیل شدن به یک برنامه نویسی ASP.NET core بیاموزید. من این چارت را به عنوان یک راهنما برای هر کسی که از من راجب اینکه دیگر باید چه چیزی را به عنوان یک برنامه نویس ASP.NET core بیاموزم ساختم.
 
-## Disclaimer
+## سلب مسئولیت
 
-> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job.
+> چرایی ساخت این نقشه راه این بود که به شما در درک فضای کار این تکنولوژی کمک کند. این نقشه به شما کمک میکند که در مورد اینکه چه چیزی دیگری را باید بیاموزید گمراه نشوید نه اینکه تلاش کند صرفا فناوری های پرطرفدار روز را به شما معرفی کند. شما باید به این درک برسید که چرا یک ابزار میتواند برای یک کار مناسب باشد و برای کار دیگر نه. ابزار های ترند شده لزوما برای تمامی استفاده ها مناسب نیستند.
 
-## Give a Star! :star:
+
+## ستاره بدهید! :star:
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+اگر این پروژه را دوست دارید و از آن برای یادگیری یا شروع کار استفاده کرده اید میتوانید یک ستاره به ما بدهید. ممنون!
 
-## Roadmap
+## نقشه راه
 
-![Roadmap](./aspnetcore-developer-roadmap.png)
+![نشقه راه](./aspnetcore-developer-roadmap.png)
 
-## Resources
+## منابع
 
-1. General Development Skills
-   - Learn [Git](https://git-scm.com/doc), create a few repositories on [GitHub](https://docs.github.com/en/get-started/quickstart), share your code with other people
-   - Know [HTTP(S) protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), request methods ([GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET), [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST), [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT), [PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH), [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE), [OPTIONS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS), etc.)
-   - What is [TLS](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/)?
-   - What is [SSL](https://www.cloudflare.com/learning/ssl/what-is-ssl/)?
-   - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com)
-   - Start using [ChatGPT](https://chat.openai.com/chat)
-   - [Read a few books about algorithms and data structures](https://www.interviewbit.com/blog/data-structures-and-algorithms-books)
+1. توانایی های عمومی و پایه برنامه نویسی
+   - [Git](https://git-scm.com/doc) را یاد بگیرید, چند مخزن یا همان ریپازتوری در گیتاهاب بسازید [GitHub](https://docs.github.com/en/get-started/quickstart), کد های خودتان را با دیگران به اشتراک بگذارید
+   - [HTTP(S) protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) را درک کنید, روش های ارسال درخواست یا همان Request methods ([GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET), [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST), [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT), [PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH), [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE), [OPTIONS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS), etc.)
+   - [TLS](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/) چیست?
+   - [SSL](https://www.cloudflare.com/learning/ssl/what-is-ssl/) چیست?
+   - از جستجو در گوگل نترسید, [Power Searching with Google](http://www.powersearchingwithgoogle.com)
+   - شروع به استفاده از [ChatGPT](https://chat.openai.com/chat) کنید
+   - [چند کتاب در باره الگوریتم ها و ساختمان داده ها بخوانید](https://www.interviewbit.com/blog/data-structures-and-algorithms-books)
 
 2. C#
    - [C#](https://www.pluralsight.com/paths/c-10)
    - [.NET 7](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7)
-   - Learn [dotnet CLI](https://docs.microsoft.com/dotnet/core/tools)
+   - یادگیری [dotnet CLI](https://docs.microsoft.com/dotnet/core/tools)
 
-3. SQL Fundamentals
+3. مبانی SQL
    - [Pluralsight Learning Path: Querying Data with T-SQL from SQL Server](https://www.pluralsight.com/paths/querying-data-with-t-sql-from-sql-server)
 
-4. ASP.NET Core Basics
+4. پایه های ASP.NET Core
    - [MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview)
    - [REST](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
-   - [Application Settings & Configurations](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration)
-   - [Middlewares](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware)
-   - [Filters & Attributes](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters)
-   - [Authentication](https://docs.microsoft.com/en-us/aspnet/core/security/authentication)
-   - [Authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/introduction)
+   - [تنظیمات و پیکربندی برنامه](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration)
+   - [Middlewares یا میان افزار ها](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware)
+   - [Filters & Attributes فیلتر ها و ویژگی ها](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters)
+   - [Authentication احراز هویت](https://docs.microsoft.com/en-us/aspnet/core/security/authentication)
+   - [Authorization مجوز ها](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/introduction)
    - [IdentityServer](https://identityserver4.readthedocs.io/en/latest)
    - [OpenIddict](https://github.com/openiddict/openiddict-core)
    - [Auth0](https://auth0.com/docs)
    - [OIDC](https://openid.net/connect)
    - [Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/razor-pages)
    - [Razor Components](https://docs.microsoft.com/en-us/aspnet/core/blazor/components)
-   - Tutorials
+   - دوره ها
       - [Pluralsight Learning Path: ASP.NET Core 6](https://www.pluralsight.com/paths/aspnet-core-6)
       - [Pluralsight Learning Path: ASP.NET Core 6 Web API](https://www.pluralsight.com/paths/aspnet-core-6-web-api)
 
 5. SOLID
-    - [Single Responsibility Principle (SRP)](https://www.dotnetcurry.com/software-gardening/1148/solid-single-responsibility-principle)
-    - [Open-Closed Principle (OCP)](https://www.dotnetcurry.com/software-gardening/1176/solid-open-closed-principle)
-    - [Liskov Substitution Principle (LSP)](https://www.dotnetcurry.com/software-gardening/1235/liskov-substitution-principle-lsp-solid-patterns)
-    - [Interface Segregation Principle (ISP)](https://www.dotnetcurry.com/software-gardening/1257/interface-segregation-principle-isp-solid-principle)
-    - [Dependency Inversion Principle (DIP)](https://www.dotnetcurry.com/software-gardening/1284/dependency-injection-solid-principles)
+    - [اصل مسئولیت واحد /Single Responsibility Principle (SRP)](https://www.dotnetcurry.com/software-gardening/1148/solid-single-responsibility-principle)
+    - [اصل باز-بسته/Open-Closed Principle (OCP)](https://www.dotnetcurry.com/software-gardening/1176/solid-open-closed-principle)
+    - [اصل جایگزینی لیسکوف/Liskov Substitution Principle (LSP)](https://www.dotnetcurry.com/software-gardening/1235/liskov-substitution-principle-lsp-solid-patterns)
+    - [اصل جداسازی رابط/Interface Segregation Principle (ISP)](https://www.dotnetcurry.com/software-gardening/1257/interface-segregation-principle-isp-solid-principle)
+    - [اصل وارونگی وابستگی/Dependency Inversion Principle (DIP)](https://www.dotnetcurry.com/software-gardening/1284/dependency-injection-solid-principles)
 
 6. ORM
     - [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core)
