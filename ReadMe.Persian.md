@@ -29,7 +29,7 @@
 ## منابع
 
 1. توانایی های عمومی و پایه برنامه نویسی
-   - [Git](https://git-scm.com/doc) را یاد بگیرید, چند مخزن یا همان ریپازتوری در گیتاهاب بسازید [GitHub](https://docs.github.com/en/get-started/quickstart), کد های خودتان را با دیگران به اشتراک بگذارید
+   - کار با [Git](https://git-scm.com/doc) را یاد بگیرید, چند مخزن یا همان ریپازتوری در گیتاهاب بسازید [GitHub](https://docs.github.com/en/get-started/quickstart), کد های خودتان را با دیگران به اشتراک بگذارید
    - [HTTP(S) protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) را درک کنید, روش های ارسال درخواست یا همان Request methods ([GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET), [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST), [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT), [PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH), [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE), [OPTIONS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS), etc.)
    - [TLS](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/) چیست?
    - [SSL](https://www.cloudflare.com/learning/ssl/what-is-ssl/) چیست?
