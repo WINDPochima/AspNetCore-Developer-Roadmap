@@ -4,8 +4,8 @@
 [![Backers on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/sponsors/badge.svg)](#sponsors)
 
-- [Read-me in Traditional Chinese](ReadMe.zh-Hant.md)
-- [Read-me in Simplified Chinese](ReadMe.zh-Hans.md)
+- [مشاهده فایل Read-me به زبان چینی سنتی](ReadMe.zh-Hant.md)
+- [مشاهده فایل Read-me به زبان چینی ساده سازی شده](ReadMe.zh-Hans.md)
 - [Read-me in Turkish](ReadMe-tr.md)
 - [Read-me in Japanese](ReadMe.ja.md)
 
