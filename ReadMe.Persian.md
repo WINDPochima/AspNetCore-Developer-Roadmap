@@ -6,12 +6,13 @@
 
 - [مشاهده فایل Read-me به زبان چینی سنتی](ReadMe.zh-Hant.md)
 - [مشاهده فایل Read-me به زبان چینی ساده سازی شده](ReadMe.zh-Hans.md)
-- [Read-me in Turkish](ReadMe-tr.md)
-- [Read-me in Japanese](ReadMe.ja.md)
+- [مشاهده فایل Read-me به زبان ژاپنی](ReadMe.ja.md)
+- [مشاهده فایل Read-me به زبان ترکی](ReadMe-tr.md)
 
-> Roadmap to becoming an [ASP.NET Core](https://docs.microsoft.com/aspnet/core) developer in 2023:
+> نقشه راه تبدیل شدن به یک برنامه نویس [ASP.NET Core](https://docs.microsoft.com/aspnet/core) در سال 2023:
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become an ASP.NET Core developer. I made this chart as a tip for everyone who asks me, "What should I learn next as an ASP.NET Core developer?"
+در پایین این متن میتوانید یک چارت که نمایشگر راه هایی که میتوانید انتخاب کند و کتابخانه های که میتوانید برای تبدیل شدت به یک برنامه نویسی ASP.NET core بیاموزید. من این چارت رابه عنوان یک راهنما برای هر کسی که از من راجب اینکه دیگر باید چه چیزی را به عنوان یک برنامه نویس ASP.NET core بیاموزم ساختم.
 
 ## Disclaimer
 
